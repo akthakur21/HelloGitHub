@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    //hhjnimcnd fcjmkxcnsj
+    //Hello server
 }
 
 
