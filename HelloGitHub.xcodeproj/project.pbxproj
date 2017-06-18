@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		9271F8601EF6649100D0C1A2 /* NextViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9271F85E1EF6649100D0C1A2 /* NextViewController.m */; };
 		9271F8611EF6649100D0C1A2 /* NextViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9271F85F1EF6649100D0C1A2 /* NextViewController.xib */; };
+		9271F8631EF669DE00D0C1A2 /* PlistNew.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9271F8621EF669DE00D0C1A2 /* PlistNew.plist */; };
 		92E5162B1EE2D8FC0012901D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 92E5162A1EE2D8FC0012901D /* main.m */; };
 		92E5162E1EE2D8FC0012901D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 92E5162D1EE2D8FC0012901D /* AppDelegate.m */; };
 		92E516311EE2D8FC0012901D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 92E516301EE2D8FC0012901D /* ViewController.m */; };
@@ -40,6 +41,7 @@
 		9271F85D1EF6649100D0C1A2 /* NextViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NextViewController.h; sourceTree = "<group>"; };
 		9271F85E1EF6649100D0C1A2 /* NextViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NextViewController.m; sourceTree = "<group>"; };
 		9271F85F1EF6649100D0C1A2 /* NextViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NextViewController.xib; sourceTree = "<group>"; };
+		9271F8621EF669DE00D0C1A2 /* PlistNew.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PlistNew.plist; sourceTree = "<group>"; };
 		92E516261EE2D8FC0012901D /* HelloGitHub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloGitHub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		92E5162A1EE2D8FC0012901D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		92E5162C1EE2D8FC0012901D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 				9271F85D1EF6649100D0C1A2 /* NextViewController.h */,
 				9271F85E1EF6649100D0C1A2 /* NextViewController.m */,
 				9271F85F1EF6649100D0C1A2 /* NextViewController.xib */,
+				9271F8621EF669DE00D0C1A2 /* PlistNew.plist */,
 				92E516321EE2D8FC0012901D /* Main.storyboard */,
 				92E516351EE2D8FC0012901D /* Assets.xcassets */,
 				92E516371EE2D8FC0012901D /* LaunchScreen.storyboard */,
@@ -254,6 +257,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9271F8631EF669DE00D0C1A2 /* PlistNew.plist in Resources */,
 				92E516391EE2D8FC0012901D /* LaunchScreen.storyboard in Resources */,
 				9271F8611EF6649100D0C1A2 /* NextViewController.xib in Resources */,
 				92E516361EE2D8FC0012901D /* Assets.xcassets in Resources */,
