@@ -1,10 +1,3 @@
-//
-//  NextViewController.m
-//  HelloGitHub
-//
-//  Created by Er Sanjay Morya on 18/06/17.
-//  Copyright © 2017 Learning. All rights reserved.
-//
 
 #import "NextViewController.h"
 
